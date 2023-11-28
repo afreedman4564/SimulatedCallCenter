@@ -1,0 +1,399 @@
+
+                                      ARENA Simulation Results
+                                   Windows User - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date :11/28/2023
+Analyst: Georgia Institute of Technology                             Model revision date:11/28/2023
+
+Replication ended at time      : 720.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Trunk Line Fraud or Credit Check Shift 3        --         --         --         --          0
+Trunk Line Fraud or Credit Check Shift 2    1.0000     (Insuf)    1.0000     1.0000         96    
+Trunk Line Fraud or Credit Check Shift 1    1.0000     .00000     1.0000     1.0000        488    
+Trunk Line Lost or Stolen Card Shift 3          --         --         --         --          0
+Trunk Line Lost or Stolen Card Shift 2      1.0000     (Insuf)    1.0000     1.0000         15    
+Trunk Line Lost or Stolen Card Shift 1      1.0000     (Insuf)    1.0000     1.0000         47    
+Trunk Line Payment Balance Check Shift 3    1.0000     (Insuf)    1.0000     1.0000          9    
+Trunk Line Payment Balance Check Shift 2    1.0000     .00000     1.0000     1.0000       1105    
+Trunk Line Payment Balance Check Shift 1    1.0000     .00000     1.0000     1.0000       4414    
+Total Self Service Simple Shift 2           1.0000     .00000     1.0000     1.0000       8298    
+Total Self Service Simple Shift 3           1.0000     .00000     1.0000     1.0000       3026    
+Total Self Service Simple Shift 1           1.0000     .00000     1.0000     1.0000       9711    
+Entity Closure Specialist Call.VATime       .71726     .03513     .26805     3.7076        470    
+Entity Closure Specialist Call.NVATime      .00000     .00000     .00000     .00000        470    
+Entity Closure Specialist Call.WaitTime     1.8103     (Corr)     .00000     12.933        470    
+Entity Closure Specialist Call.TranTime     .00000     .00000     .00000     .00000        470    
+Entity Closure Specialist Call.OtherTime    .00000     .00000     .00000     .00000        470    
+Entity Closure Specialist Call.TotalTime    2.5276     (Corr)     .26805     13.844        470    
+Entity Closure Specialist Call.VACost       11.598     .27538     5.8970     23.139        470    
+Entity Closure Specialist Call.NVACost      .00000     .00000     .00000     .00000        470    
+Entity Closure Specialist Call.WaitCost     .00000     .00000     .00000     .00000        470    
+Entity Closure Specialist Call.TranCost     .00000     .00000     .00000     .00000        470    
+Entity Closure Specialist Call.OtherCost    .00000     .00000     .00000     .00000        470    
+Entity Closure Specialist Call.TotalCost    11.598     .27538     5.8970     23.139        470    
+Entity 1.VATime                                 --         --         --         --          0
+Entity 1.NVATime                                --         --         --         --          0
+Entity 1.WaitTime                               --         --         --         --          0
+Entity 1.TranTime                               --         --         --         --          0
+Entity 1.OtherTime                              --         --         --         --          0
+Entity 1.TotalTime                              --         --         --         --          0
+Entity 1.VACost                                 --         --         --         --          0
+Entity 1.NVACost                                --         --         --         --          0
+Entity 1.WaitCost                               --         --         --         --          0
+Entity 1.TranCost                               --         --         --         --          0
+Entity 1.OtherCost                              --         --         --         --          0
+Entity 1.TotalCost                              --         --         --         --          0
+Entity Fraud Credit Specialist Call.VATime  .46275     .03120     .10486     4.5462       1857    
+Entity Fraud Credit Specialist Call.NVATim  .00000     .00000     .00000     .00000       1857    
+Entity Fraud Credit Specialist Call.WaitTi  .55598     (Corr)     .00000     13.268       1857    
+Entity Fraud Credit Specialist Call.TranTi  .00000     .00000     .00000     .00000       1857    
+Entity Fraud Credit Specialist Call.OtherT  .00000     .00000     .00000     .00000       1857    
+Entity Fraud Credit Specialist Call.TotalT  1.0187     (Corr)     .11400     15.046       1857    
+Entity Fraud Credit Specialist Call.VACost  5.1718     .07958     2.0973     19.757       1857    
+Entity Fraud Credit Specialist Call.NVACos  .00000     .00000     .00000     .00000       1857    
+Entity Fraud Credit Specialist Call.WaitCo  .00000     .00000     .00000     .00000       1857    
+Entity Fraud Credit Specialist Call.TranCo  .00000     .00000     .00000     .00000       1857    
+Entity Fraud Credit Specialist Call.OtherC  .00000     .00000     .00000     .00000       1857    
+Entity Fraud Credit Specialist Call.TotalC  5.1718     .07958     2.0973     19.757       1857    
+Entity Sales Specialist Call.VATime         .42884     .03079     .10646     4.0443       1478    
+Entity Sales Specialist Call.NVATime        .00000     .00000     .00000     .00000       1478    
+Entity Sales Specialist Call.WaitTime       .06849     .02584     .00000     6.4304       1478    
+Entity Sales Specialist Call.TranTime       .00000     .00000     .00000     .00000       1478    
+Entity Sales Specialist Call.OtherTime      .00000     .00000     .00000     .00000       1478    
+Entity Sales Specialist Call.TotalTime      .49733     .04182     .10646     10.010       1478    
+Entity Sales Specialist Call.VACost         .41030     .09753     .00000     13.666       1478    
+Entity Sales Specialist Call.NVACost        .00000     .00000     .00000     .00000       1478    
+Entity Sales Specialist Call.WaitCost       .00000     .00000     .00000     .00000       1478    
+Entity Sales Specialist Call.TranCost       .00000     .00000     .00000     .00000       1478    
+Entity Sales Specialist Call.OtherCost      .00000     .00000     .00000     .00000       1478    
+Entity Sales Specialist Call.TotalCost      .41030     .09753     .00000     13.666       1478    
+Entity Payment Specialist Call.VATime       .32789     .01477     .05081     4.0386       4202    
+Entity Payment Specialist Call.NVATime      .00000     .00000     .00000     .00000       4202    
+Entity Payment Specialist Call.WaitTime     .31732     .09845     .00000     13.973       4202    
+Entity Payment Specialist Call.TranTime     .00000     .00000     .00000     .00000       4202    
+Entity Payment Specialist Call.OtherTime    .00000     .00000     .00000     .00000       4202    
+Entity Payment Specialist Call.TotalTime    .64521     .10250     .05185     15.410       4202    
+Entity Payment Specialist Call.VACost       2.6202     .04305     .91450     24.235       4202    
+Entity Payment Specialist Call.NVACost      .00000     .00000     .00000     .00000       4202    
+Entity Payment Specialist Call.WaitCost     .00000     .00000     .00000     .00000       4202    
+Entity Payment Specialist Call.TranCost     .00000     .00000     .00000     .00000       4202    
+Entity Payment Specialist Call.OtherCost    .00000     .00000     .00000     .00000       4202    
+Entity Payment Specialist Call.TotalCost    2.6202     .04305     .91450     24.235       4202    
+Entity Lost Stolen Specialist Call.VATime   .44537     .02457     .10025     4.3533       1402    
+Entity Lost Stolen Specialist Call.NVATime  .00000     .00000     .00000     .00000       1402    
+Entity Lost Stolen Specialist Call.WaitTim  1.7245     (Corr)     .00000     10.845       1402    
+Entity Lost Stolen Specialist Call.TranTim  .00000     .00000     .00000     .00000       1402    
+Entity Lost Stolen Specialist Call.OtherTi  .00000     .00000     .00000     .00000       1402    
+Entity Lost Stolen Specialist Call.TotalTi  2.1699     (Corr)     .10025     11.020       1402    
+Entity Lost Stolen Specialist Call.VACost   5.7146     .12025     2.2375     18.135       1402    
+Entity Lost Stolen Specialist Call.NVACost  .00000     .00000     .00000     .00000       1402    
+Entity Lost Stolen Specialist Call.WaitCos  .00000     .00000     .00000     .00000       1402    
+Entity Lost Stolen Specialist Call.TranCos  .00000     .00000     .00000     .00000       1402    
+Entity Lost Stolen Specialist Call.OtherCo  .00000     .00000     .00000     .00000       1402    
+Entity Lost Stolen Specialist Call.TotalCo  5.7146     .12025     2.2375     18.135       1402    
+Payment Check Balance Self Service Call.VA  .27533     .00882     .03334     5.5070      15439    
+Payment Check Balance Self Service Call.NV  .00000     .00000     .00000     .00000      15439    
+Payment Check Balance Self Service Call.Wa  .06096     (Corr)     .00000     10.661      15439    
+Payment Check Balance Self Service Call.Tr  .00000     .00000     .00000     .00000      15439    
+Payment Check Balance Self Service Call.Ot  .00000     .00000     .00000     .00000      15439    
+Payment Check Balance Self Service Call.To  .33629     (Corr)     .03334     12.061      15439    
+Payment Check Balance Self Service Call.VA  .29177     .02324     .00100     21.365      15439    
+Payment Check Balance Self Service Call.NV  .00000     .00000     .00000     .00000      15439    
+Payment Check Balance Self Service Call.Wa  .00000     .00000     .00000     .00000      15439    
+Payment Check Balance Self Service Call.Tr  .00000     .00000     .00000     .00000      15439    
+Payment Check Balance Self Service Call.Ot  .00000     .00000     .00000     .00000      15439    
+Payment Check Balance Self Service Call.To  .29177     .02324     .00100     21.365      15439    
+Entity Lost Stolen Self Service Call.VATim  .46483     .03773     .16680     3.6187       1475    
+Entity Lost Stolen Self Service Call.NVATi  .00000     .00000     .00000     .00000       1475    
+Entity Lost Stolen Self Service Call.WaitT  .06184     (Corr)     .00000     10.188       1475    
+Entity Lost Stolen Self Service Call.TranT  .00000     .00000     .00000     .00000       1475    
+Entity Lost Stolen Self Service Call.Other  .00000     .00000     .00000     .00000       1475    
+Entity Lost Stolen Self Service Call.Total  .52667     .04335     .16680     11.931       1475    
+Entity Lost Stolen Self Service Call.VACos  .34765     .06463     .00500     18.529       1475    
+Entity Lost Stolen Self Service Call.NVACo  .00000     .00000     .00000     .00000       1475    
+Entity Lost Stolen Self Service Call.WaitC  .00000     .00000     .00000     .00000       1475    
+Entity Lost Stolen Self Service Call.TranC  .00000     .00000     .00000     .00000       1475    
+Entity Lost Stolen Self Service Call.Other  .00000     .00000     .00000     .00000       1475    
+Entity Lost Stolen Self Service Call.Total  .34765     .06463     .00500     18.529       1475    
+Fraud Credit Self Service Call.VATime       .33417     .01676     .08335     6.2909       4170    
+Fraud Credit Self Service Call.NVATime      .00000     .00000     .00000     .00000       4170    
+Fraud Credit Self Service Call.WaitTime     .05647     (Corr)     .00000     6.7019       4170    
+Fraud Credit Self Service Call.TranTime     .00000     .00000     .00000     .00000       4170    
+Fraud Credit Self Service Call.OtherTime    .00000     .00000     .00000     .00000       4170    
+Fraud Credit Self Service Call.TotalTime    .39064     (Corr)     .08335     11.308       4170    
+Fraud Credit Self Service Call.VACost       .32242     (Corr)     .00250     21.272       4170    
+Fraud Credit Self Service Call.NVACost      .00000     .00000     .00000     .00000       4170    
+Fraud Credit Self Service Call.WaitCost     .00000     .00000     .00000     .00000       4170    
+Fraud Credit Self Service Call.TranCost     .00000     .00000     .00000     .00000       4170    
+Fraud Credit Self Service Call.OtherCost    .00000     .00000     .00000     .00000       4170    
+Fraud Credit Self Service Call.TotalCost    .32242     (Corr)     .00250     21.272       4170    
+Entity Specialist.VATime                        --         --         --         --          0
+Entity Specialist.NVATime                       --         --         --         --          0
+Entity Specialist.WaitTime                      --         --         --         --          0
+Entity Specialist.TranTime                      --         --         --         --          0
+Entity Specialist.OtherTime                     --         --         --         --          0
+Entity Specialist.TotalTime                     --         --         --         --          0
+Entity Specialist.VACost                        --         --         --         --          0
+Entity Specialist.NVACost                       --         --         --         --          0
+Entity Specialist.WaitCost                      --         --         --         --          0
+Entity Specialist.TranCost                      --         --         --         --          0
+Entity Specialist.OtherCost                     --         --         --         --          0
+Entity Specialist.TotalCost                     --         --         --         --          0
+Lost or Stolen Card.Queue.WaitingTime       1.6708     (Corr)     .00000     10.845       1861    
+Lost or Stolen Card.Queue.WaitingCost       .00000     .00000     .00000     .00000       1861    
+Payment or Check Balance Self Service.Queu  .00000     .00000     .00000     .00000      19240    
+Payment or Check Balance Self Service.Queu  .00000     .00000     .00000     .00000      19240    
+Seize 1.Queue.WaitingTime                   .00605      3.7688E-4 .00000     .18868      19240    
+Seize 1.Queue.WaitingCost                   .00000     .00000     .00000     .00000      19240    
+Seize 2.Queue.WaitingTime                   .00981      7.7916E-4 .00000     .13078       5155    
+Seize 2.Queue.WaitingCost                   .00000     .00000     .00000     .00000       5155    
+Fraud or Credit Specialist.Queue.WaitingTi  .49393     (Corr)     .00000     7.1603       2507    
+Fraud or Credit Specialist.Queue.WaitingCo  .00000     .00000     .00000     .00000       2507    
+Payment Balance Specialist.Queue.WaitingTi  .24127     .08481     .00000     6.9651       5619    
+Payment Balance Specialist.Queue.WaitingCo  .00000     .00000     .00000     .00000       5619    
+Complaint.Queue.WaitingTime                 .12110     (Insuf)    .00000     1.4145         65    
+Complaint.Queue.WaitingCost                 .00000     (Insuf)    .00000     .00000         65    
+Saless.Queue.WaitingTime                    .00114      7.2513E-4 .00000     .14199       1926    
+Saless.Queue.WaitingCost                    .00000     .00000     .00000     .00000       1926    
+Lost or Stolen Card Self Service.Queue.Wai  .00000     .00000     .00000     .00000       1811    
+Lost or Stolen Card Self Service.Queue.Wai  .00000     .00000     .00000     .00000       1811    
+Seize 3.Queue.WaitingTime                   .01087      9.3383E-4 .00000     .11032       1811    
+Seize 3.Queue.WaitingCost                   .00000     .00000     .00000     .00000       1811    
+Fraud or Credit Self Service.Queue.Waiting  .00000     .00000     .00000     .00000       5155    
+Fraud or Credit Self Service.Queue.Waiting  .00000     .00000     .00000     .00000       5155    
+Close Account.Queue.WaitingTime             1.7462     (Corr)     .00000     10.659        632    
+Close Account.Queue.WaitingCost             .00000     .00000     .00000     .00000        632    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity Closure Specialist Call.WIP          2.1745     (Corr)     .00000     11.000     .00000    
+Entity 1.WIP                                .20659     .02693     .00000     4.0000     .00000    
+Entity Fraud Credit Specialist Call.WIP     3.2570     .58482     .00000     24.000     .00000    
+Entity Sales Specialist Call.WIP            1.1513     .09729     .00000     10.000     .00000    
+Entity Payment Specialist Call.WIP          4.4331     .86011     .00000     33.000     .00000    
+Entity Lost Stolen Specialist Call.WIP      5.4448     1.7271     .00000     33.000     .00000    
+Payment Check Balance Self Service Call.WI  4.6310     (Corr)     .00000     16.000     2.0000    
+Entity Lost Stolen Self Service Call.WIP    .89229     .08636     .00000     6.0000     .00000    
+Fraud Credit Self Service Call.WIP          1.6520     .13527     .00000     10.000     .00000    
+Entity Specialist.WIP                       .00000     (Insuf)    .00000     1.0000     .00000    
+Resource 19.NumberBusy                      .00000     (Insuf)    .00000     .00000     .00000    
+Resource 19.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 19.Utilization                     .00000     (Insuf)    .00000     .00000     .00000    
+Resource 1.NumberBusy                       .08973     (Insuf)    .00000     1.0000     .00000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .08973     (Insuf)    .00000     1.0000     .00000    
+Joey.NumberBusy                             .28349     .04871     .00000     1.0000     .00000    
+Joey.NumberScheduled                        .33333     (Insuf)    .00000     1.0000     .00000    
+Joey.Utilization                            .28349     .04871     .00000     1.0000     .00000    
+Peter.NumberBusy                            .31989     (Insuf)    .00000     1.0000     .00000    
+Peter.NumberScheduled                       .33333     (Insuf)    .00000     1.0000     .00000    
+Peter.Utilization                           .31989     (Insuf)    .00000     1.0000     .00000    
+Rachel.NumberBusy                           .26380     .04891     .00000     1.0000     .00000    
+Rachel.NumberScheduled                      .33333     (Insuf)    .00000     1.0000     .00000    
+Rachel.Utilization                          .26380     .04891     .00000     1.0000     .00000    
+Katie.NumberBusy                            .00000     (Insuf)    .00000     .00000     .00000    
+Katie.NumberScheduled                       .33333     (Insuf)    .00000     1.0000     .00000    
+Katie.Utilization                           .00000     (Insuf)    .00000     .00000     .00000    
+Sales.NumberBusy                            .62654     .05812     .00000     5.0000     .00000    
+Sales.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Sales.Utilization                           .12531     .01162     .00000     1.0000     .00000    
+Tayshia.NumberBusy                          .28031     (Insuf)    .00000     1.0000     .00000    
+Tayshia.NumberScheduled                     .33333     (Insuf)    .00000     1.0000     .00000    
+Tayshia.Utilization                         .28031     (Insuf)    .00000     1.0000     .00000    
+Clayton.NumberBusy                          .30583     .04375     .00000     1.0000     .00000    
+Clayton.NumberScheduled                     .33333     (Insuf)    .00000     1.0000     .00000    
+Clayton.Utilization                         .30583     .04375     .00000     1.0000     .00000    
+Michelle.NumberBusy                         .29879     (Insuf)    .00000     1.0000     .00000    
+Michelle.NumberScheduled                    .33333     (Insuf)    .00000     1.0000     .00000    
+Michelle.Utilization                        .29879     (Insuf)    .00000     1.0000     .00000    
+Self Service.NumberBusy                     3.0895     (Corr)     .00000     5.0000     1.0000    
+Hannah.NumberBusy                           .00000     (Insuf)    .00000     .00000     .00000    
+Hannah.NumberScheduled                      .33333     (Insuf)    .00000     1.0000     1.0000    
+Hannah.Utilization                          .00000     (Insuf)    .00000     .00000     .00000    
+Arie.NumberBusy                             .00000     (Insuf)    .00000     .00000     .00000    
+Arie.NumberScheduled                        .33333     (Insuf)    .00000     1.0000     .00000    
+Arie.Utilization                            .00000     (Insuf)    .00000     .00000     .00000    
+Zach.NumberBusy                             .18458     .03171     .00000     1.0000     .00000    
+Zach.NumberScheduled                        .33333     (Insuf)    .00000     1.0000     .00000    
+Zach.Utilization                            .18458     .03171     .00000     1.0000     .00000    
+Matt.NumberBusy                             .25215     .03782     .00000     1.0000     .00000    
+Matt.NumberScheduled                        .33333     (Insuf)    .00000     1.0000     .00000    
+Matt.Utilization                            .25215     .03782     .00000     1.0000     .00000    
+Becca.NumberBusy                            .00000     (Insuf)    .00000     .00000     .00000    
+Becca.NumberScheduled                       .33333     (Insuf)    .00000     1.0000     1.0000    
+Becca.Utilization                           .00000     (Insuf)    .00000     .00000     .00000    
+Clare.NumberBusy                            .31796     (Insuf)    .00000     1.0000     .00000    
+Clare.NumberScheduled                       .33333     (Insuf)    .00000     1.0000     .00000    
+Clare.Utilization                           .31796     (Insuf)    .00000     1.0000     .00000    
+Trunk Line.NumberBusy                       3.0895     (Corr)     .00000     5.0000     1.0000    
+Trunk Line.NumberScheduled                  5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Trunk Line.Utilization                      .61792     (Corr)     .00000     1.0000     .20000    
+Colton.NumberBusy                           .25628     .03864     .00000     1.0000     .00000    
+Colton.NumberScheduled                      .32609     (Insuf)    .00000     1.0000     1.0000    
+Colton.Utilization                          .25628     .03864     .00000     1.0000     .00000    
+Gabby.NumberBusy                            .00000     (Insuf)    .00000     .00000     .00000    
+Gabby.NumberScheduled                       .33333     (Insuf)    .00000     1.0000     .00000    
+Gabby.Utilization                           .00000     (Insuf)    .00000     .00000     .00000    
+Lost or Stolen Card.Queue.NumberInQueue     4.3186     (Corr)     .00000     32.000     .00000    
+Payment or Check Balance Self Service.Queu  .00000     (Insuf)    .00000     .00000     .00000    
+Seize 1.Queue.NumberInQueue                 .16159     .01835     .00000     1.0000     .00000    
+Seize 2.Queue.NumberInQueue                 .07020     .00896     .00000     1.0000     .00000    
+Fraud or Credit Specialist.Queue.NumberInQ  1.7198     (Corr)     .00000     19.000     .00000    
+Payment Balance Specialist.Queue.NumberInQ  1.8829     .67880     .00000     28.000     .00000    
+Complaint.Queue.NumberInQueue               .01093     (Insuf)    .00000     2.0000     .00000    
+Saless.Queue.NumberInQueue                  .00304     (Insuf)    .00000     4.0000     .00000    
+Lost or Stolen Card Self Service.Queue.Num  .00000     (Insuf)    .00000     .00000     .00000    
+Seize 3.Queue.NumberInQueue                 .02734     .00477     .00000     1.0000     .00000    
+Fraud or Credit Self Service.Queue.NumberI  .00000     (Insuf)    .00000     .00000     .00000    
+Close Account.Queue.NumberInQueue           1.5327     (Corr)     .00000     10.000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity Closure Specialist Call.NumberIn     632.00    
+Entity Closure Specialist Call.NumberOut    632.00    
+Entity 1.NumberIn                           30495.    
+Entity 1.NumberOut                          30495.    
+Entity Fraud Credit Specialist Call.Number  2480.0    
+Entity Fraud Credit Specialist Call.Number  2480.0    
+Entity Sales Specialist Call.NumberIn       1915.0    
+Entity Sales Specialist Call.NumberOut      1915.0    
+Entity Payment Specialist Call.NumberIn     5476.0    
+Entity Payment Specialist Call.NumberOut    5476.0    
+Entity Lost Stolen Specialist Call.NumberI  1843.0    
+Entity Lost Stolen Specialist Call.NumberO  1843.0    
+Payment Check Balance Self Service Call.Nu  17057.    
+Payment Check Balance Self Service Call.Nu  17055.    
+Entity Lost Stolen Self Service Call.Numbe  1799.0    
+Entity Lost Stolen Self Service Call.Numbe  1799.0    
+Fraud Credit Self Service Call.NumberIn     5017.0    
+Fraud Credit Self Service Call.NumberOut    5017.0    
+Entity Specialist.NumberIn                  11899.    
+Entity Specialist.NumberOut                 11899.    
+Resource 19.NumberSeized                    .00000    
+Resource 19.ScheduledUtilization            .00000    
+Resource 19.BusyCost                        .00000    
+Resource 19.IdleCost                        .00000    
+Resource 19.UsageCost                       .00000    
+Resource 1.NumberSeized                     65.000    
+Resource 1.ScheduledUtilization             .08973    
+Resource 1.BusyCost                         .00000    
+Resource 1.IdleCost                         .00000    
+Resource 1.UsageCost                        .00000    
+Joey.NumberSeized                           1753.0    
+Joey.ScheduledUtilization                   .85046    
+Joey.BusyCost                               3673.9    
+Joey.IdleCost                               663.67    
+Joey.UsageCost                              .00000    
+Peter.NumberSeized                          799.00    
+Peter.ScheduledUtilization                  .95967    
+Peter.BusyCost                              5067.0    
+Peter.IdleCost                              292.48    
+Peter.UsageCost                             .00000    
+Rachel.NumberSeized                         1625.0    
+Rachel.ScheduledUtilization                 .79141    
+Rachel.BusyCost                             3418.8    
+Rachel.IdleCost                             920.89    
+Rachel.UsageCost                            .00000    
+Katie.NumberSeized                          .00000    
+Katie.ScheduledUtilization                  .00000    
+Katie.BusyCost                              .00000    
+Katie.IdleCost                              4800.0    
+Katie.UsageCost                             .00000    
+Sales.NumberSeized                          1926.0    
+Sales.ScheduledUtilization                  .12531    
+Sales.BusyCost                              .00000    
+Sales.IdleCost                              .00000    
+Sales.UsageCost                             .00000    
+Tayshia.NumberSeized                        732.00    
+Tayshia.ScheduledUtilization                .84093    
+Tayshia.BusyCost                            4440.1    
+Tayshia.IdleCost                            892.22    
+Tayshia.UsageCost                           .00000    
+Clayton.NumberSeized                        1062.0    
+Clayton.ScheduledUtilization                .91749    
+Clayton.BusyCost                            4403.9    
+Clayton.IdleCost                            444.48    
+Clayton.UsageCost                           .00000    
+Michelle.NumberSeized                       1015.0    
+Michelle.ScheduledUtilization               .89636    
+Michelle.BusyCost                           4302.5    
+Michelle.IdleCost                           532.22    
+Michelle.UsageCost                          .00000    
+Self Service.NumberSeized                   26206.    
+Self Service.BusyCost                       .00000    
+Self Service.UsageCost                      .00000    
+Hannah.NumberSeized                         .00000    
+Hannah.ScheduledUtilization                 .00000    
+Hannah.BusyCost                             .00000    
+Hannah.IdleCost                             6000.0    
+Hannah.UsageCost                            .00000    
+Arie.NumberSeized                           .00000    
+Arie.ScheduledUtilization                   .00000    
+Arie.BusyCost                               .00000    
+Arie.IdleCost                               5280.0    
+Arie.UsageCost                              .00000    
+Zach.NumberSeized                           1140.0    
+Zach.ScheduledUtilization                   .55373    
+Zach.BusyCost                               2392.0    
+Zach.IdleCost                               1936.5    
+Zach.UsageCost                              .00000    
+Matt.NumberSeized                           885.00    
+Matt.ScheduledUtilization                   .75645    
+Matt.BusyCost                               3630.9    
+Matt.IdleCost                               1192.8    
+Matt.UsageCost                              .00000    
+Becca.NumberSeized                          .00000    
+Becca.ScheduledUtilization                  .00000    
+Becca.BusyCost                              .00000    
+Becca.IdleCost                              6000.0    
+Becca.UsageCost                             .00000    
+Clare.NumberSeized                          801.00    
+Clare.ScheduledUtilization                  .95387    
+Clare.BusyCost                              5036.4    
+Clare.IdleCost                              317.56    
+Clare.UsageCost                             .00000    
+Trunk Line.NumberSeized                     26206.    
+Trunk Line.ScheduledUtilization             .61792    
+Trunk Line.BusyCost                         66.733    
+Trunk Line.IdleCost                         41.265    
+Trunk Line.UsageCost                        .00000    
+Colton.NumberSeized                         807.00    
+Colton.ScheduledUtilization                 .78593    
+Colton.BusyCost                             4613.0    
+Colton.IdleCost                             1386.9    
+Colton.UsageCost                            .00000    
+Gabby.NumberSeized                          .00000    
+Gabby.ScheduledUtilization                  .00000    
+Gabby.BusyCost                              .00000    
+Gabby.IdleCost                              4320.0    
+Gabby.UsageCost                             .00000    
+All Entities.VACost                         41045.    
+All Entities.NVACost                        .00000    
+All Entities.WaitCost                       .00000    
+All Entities.TranCost                       .00000    
+All Entities.OtherCost                      .00000    
+All Entities.TotalCost                      41045.    
+All Resources.BusyCost                      41045.    
+All Resources.IdleCost                      35021.    
+All Resources.UsageCost                     .00000    
+All Resources.TotalCost                     76066.    
+System.TotalCost                            76066.    
+System.NumberOut                            30493.    
+
+
+Simulation run time: 0.05 minutes.
+Simulation run complete.
